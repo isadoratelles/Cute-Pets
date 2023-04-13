@@ -1,3 +1,8 @@
 header{
-    background-color:aquamarine
+    background-color:aquamarine;
+    color : blueviolet
+}  
+
+.cabecalhoimagem{
+    Width:20%;
 }
