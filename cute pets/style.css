@@ -1,8 +1,10 @@
-header{
+.cabecalho{
     background-color:aquamarine;
-    color : blueviolet
-}  
-
+    color:blueviolet;
+    display:flex;
+    justify-content:space-around;
+}
+    
 .cabecalhoimagem{
     Width:20%;
 }
