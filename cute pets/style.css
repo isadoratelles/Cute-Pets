@@ -1,4 +1,10 @@
+*{
+    margin:0;
+    padding:0;
+}
+
 .cabecalho{
+
     background-color:aquamarine;
     color:blueviolet;
     display:flex;
@@ -7,4 +13,9 @@
     
 .cabecalhoimagem{
     Width:20%;
+}
+.cabecalhoListaItem{
+    display:inline-block;
+    margin:0 16px;
+    padding:24px 0;
 }
