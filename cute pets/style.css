@@ -4,18 +4,19 @@
 }
 
 .cabecalho{
-
-    background-color:aquamarine;
-    color:blueviolet;
+    background-color:#ff7ff9;
+    color:rgb(0, 0, 0);
     display:flex;
     justify-content:space-around;
+    padding:24px 0;
+    font-size:24px;
 }
     
 .cabecalhoimagem{
     Width:20%;
 }
 .cabecalhoListaItem{
-    display:inline-block;
+    display: inline-block;
     margin:0 16px;
     padding:24px 0;
 }
