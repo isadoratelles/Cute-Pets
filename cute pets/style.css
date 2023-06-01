@@ -5,18 +5,26 @@
 
 .cabecalho{
     background-color:#ff7ff9;
-    color:rgb(0, 0, 0);
+    color:#FFFFFF;
     display:flex;
     justify-content:space-around;
-    padding:24px 0;
-    font-size:24px;
+    padding:2px 0;
+    font-size:18px;
 }
     
 .cabecalhoimagem{
-    Width:20%;
+    Width:10%;
 }
 .cabecalhoListaItem{
     display: inline-block;
     margin:0 16px;
     padding:24px 0;
+}
+.sobreImagem{
+    Width: 45%;
+}
+.sobre{
+    background-image:linear-gradient(#FA3EC6,#4EBFE9);
+    color:#FFFFFF;
+    display:flex;
 }
