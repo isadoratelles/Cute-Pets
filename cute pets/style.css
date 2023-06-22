@@ -31,11 +31,16 @@
     align-items: center;
     padding: 24px;
 }
+
 .sobreConteudo{
     Width:24%;
-    padding:0 120px 0 0;
+    padding:0 150px 15em 0;
 }
 
 .letraParagrafo{
     font-size: 20px;
+}
+
+.membroImagem{
+    width: 200px;
 }
