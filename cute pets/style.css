@@ -68,3 +68,14 @@ body{
     display:grid;
     grid-template-columns: 10% 20% 20% 20% 20%;
 }
+
+footer{
+    background-color: #4EBFE9;
+    padding: 15px 0;
+    text-align:center;
+}
+
+.rodaPe{
+    font-size: 18px;
+    color:#FA3EC6
+}
